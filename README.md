@@ -1,9 +1,19 @@
 # 3D-Printer
-3D Printer 使用記錄 (Ender3S)
+3D Printer 使用記錄 (Ender3 Pro 就是 Ender3s)
 
 以下為預計要寫的內容，先寫下標題，簡單記錄一下，晚點會把每一項逐步補上
 
 ## 組裝
+主要是看影片，因為一開始我沒注意到SD卡中有進一步的組裝說明，以為只有一張快整組裝說明書…
+
+- [影片1](https://www.youtube.com/watch?v=2Iy3fc05v_w) -->因為是中文的，我反覆看了很多次
+- [影片2](https://www.youtube.com/watch?v=6EdZeodW5qo)
+- [影片3](https://www.youtube.com/watch?v=a8Z-9ncYsps&t=92s) : 組好到列印
+- [影片4](https://www.youtube.com/watch?v=NceBBAKDLEY) : 一個女生的教學，從組到[調水平，有附gcode](https://www.thingiverse.com/thing:2874536)
+- [影片5](https://www.youtube.com/watch?v=_EfWVUJjBdA) : 教調水平，有[調校用的g-code](https://www.thingiverse.com/thing:3235018)
+
+### 用g-code調水平我還沒試過，目前都是讓它回原點後，再手動移動進行調整
+
 
 ## 使用的軟體
 
@@ -17,11 +27,31 @@
 
 ## 初始測試
 
+### 印點有關節的作品
 - [有關節的骨頭魚](https://www.thingiverse.com/thing:1276095)，是一開始測試基本功能的好圖，如果有問題，關節被連在一起就動不了了…
 - [有關節的骨頭魚2](https://www.thingiverse.com/thing:2788255)
+- [有關節的暴龍](https://www.thingiverse.com/thing:2738211)，這一個很可愛，因為本來的比較大，我把高度調整為8mm (長寬高都x0.615)，時間也從2:15減為54分，0113正在試印中
+
+### 印機構件：[利用塑料彈力的魚夾子](https://www.thingiverse.com/thing:1734347)，算蠻有趣的，印好後小孩子一直夾在衣服下，不肯拿下來
+
+----
+### 2019/01/13 印完以上的感覺
+- 不設底面Raft，容易一開始就失敗 --> 也許是我水平調的不夠好
+- Ender3 Pro的列印平面真的很好用，不用雙面膠、口紅膠也能印的很好
+- 在印時會有微微的「牽絲」，目前設定中已有回抽，不知道是怎麼回事
+
+ 
 
 ## 好作品記錄
 
+
+## 暫時有興趣的作品…待核
+
+- 自動餵魚器
+  - [餵魚器1](https://www.thingiverse.com/thing:1639286)
+  - [餵魚器1](https://www.thingiverse.com/thing:2539750)
+
+- [放SD卡的魚](https://www.thingiverse.com/thing:1737367)
 
 
 ## 
