@@ -66,4 +66,24 @@
 - [放SD卡的魚](https://www.thingiverse.com/thing:1737367)
 
 
-## 
+## 3D繪圖
+
+### [TinkerCad](https://www.tinkercad.com/): online cad，適合國中小學生以上使用
+
+- 線上學習(Starter)：
+  - [1]放一個方塊，[2]用mouse去view(放大縮小、平移、轉動)，[3]移動方塊，[4]轉動方塊，[5]變動方塊尺寸
+  - [6]Group來結合、挖洞，[7]對齊物件
+- 線上學習(實作)
+  - [1]眼鏡
+  - [2]棋子: 練習rectange, cone, sphere形狀，group, workspace, align(用了這一個才知道為何為用對的太準，因為front, side都對到中心，就等於軸心為同一個了)
+  - [3]尺：說實在的，這樣的畫法，我真的不是很確定是否畫出來的尺寸是對了…對使用過傳統CAD的人真的不是太好適應…
+  
+- 要畫的
+  - 平面圖-->擠出 -->好像沒這樣的操作方式
+  - 畫一個小車底座：有ESP安裝孔、馬達安裝孔、電池固定孔
+  - 畫輪子，有servo的固定介面
+  - 紅外線固定座
+  - 超音波固定座
+  - 音樂盒 --> Nano、Buzzer固定介面，接耳機的介面
+  - [Arduino車的外殼、輪子](https://www.youtube.com/watch?v=Lz9jQQ5H318)
+  
