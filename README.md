@@ -51,6 +51,10 @@
 - Ender3 Pro的列印平面真的很好用，不用雙面膠、口紅膠也能印的很好
 - 在印時會有微微的「牽絲」，目前設定中已有回抽，不知道是怎麼回事 --> [有文章說明，但是用尼龍絲做實驗](https://z3dfilament.blogspot.com/2018/05/StringingTesting.html)
 
+### 可以印來給Ender3S用的零件：
+- [線的引導器](https://www.thingiverse.com/thing:2917932)：已印來用，印出來要裝時有點不好裝，所以我剪了部份固定部才裝上去。
+- [抽屜: 放小零件用](https://www.thingiverse.com/thing:2989218): 這一組我印了超過24小時，但尺寸不合，還要縮小一下，有需要的人要注意，印之前量一下你的實際空間是不是和他一樣。
+- [Cable的蛇管](https://www.thingiverse.com/thing:2920060): 我預計會印來使用
 
  
 
