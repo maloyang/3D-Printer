@@ -31,7 +31,7 @@
 - [有關節的骨頭魚-Fish Fossilz](https://www.thingiverse.com/thing:1276095)，是一開始測試基本功能的好圖，如果有問題，關節被連在一起就動不了了…
 - [有關節的骨頭魚2](https://www.thingiverse.com/thing:2788255)
 - [有關節的暴龍](https://www.thingiverse.com/thing:2738211)，這一個很可愛，因為本來的比較大，我把高度調整為8mm (長寬高都x0.615)，時間也從2:15減為54分，印出來還蠻成功的，只有尾巴最後的節有點轉不會(2019-01-13)
-- [蛇](https://www.thingiverse.com/thing:1709106)：還沒印，但看起來蠻好玩的，先收集起來
+- [蛇](https://www.thingiverse.com/thing:1709106)：一次印了二隻，這個關節好能轉，小孩很愛玩!
 
 ### 夾子系列：
 
@@ -70,7 +70,7 @@
 - [放SD卡的魚](https://www.thingiverse.com/thing:1737367)
 
 - [Hungry Robot](https://www.thingiverse.com/thing:2824451)
-
+- [紙的Hungry Robot，有意思!](https://www.thingiverse.com/thing:2984461)
 
 ## 3D繪圖
 
